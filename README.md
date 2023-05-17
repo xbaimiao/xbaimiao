@@ -10,6 +10,9 @@
 <a href="https://afdian.net/@xbaimiao" target="_blank">
 <img src=https://img.shields.io/badge/Afdian-%23946CE6.svg?style=for-the-badge&logo=sailfishos&logoColor=white alt=E-Mail style="margin-bottom: 5px;" />
 </a>
+<a href="https://wiki.xbaimiao.com/" target="_blank">
+<img src=https://img.shields.io/badge/Wiki-%23946CE6.svg?style=for-the-badge&logo=sailfishos&logoColor=white alt=E-Mail style="margin-bottom: 5px;" />
+</a>
 
 <div align="center">
 <a href="3104026189@qq.com" target="_blank">

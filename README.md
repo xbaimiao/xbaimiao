@@ -2,6 +2,23 @@
 - 👀 我对minecraft，java，kotlin很感兴趣
 - 📫 我的邮件是3104026189@qq.com
 - 📄 欢迎光临我的[wiki](https://wiki.xbaimiao.com/) 
+## Connect with me
+<div align="center">
+<a href="https://github.com/xbaimiao" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://afdian.net/@xbaimiao" target="_blank">
+<img src=https://img.shields.io/badge/Afdian-%23946CE6.svg?style=for-the-badge&logo=sailfishos&logoColor=white alt=E-Mail style="margin-bottom: 5px;" />
+</a>
+
+<div align="center">
+<a href="3104026189@qq.com" target="_blank">
+<img src=https://img.shields.io/badge/EMail-3104026189@qq.com-%23555555.svg?labelColor=00acee&style=for-the-badge&logo=minutemailer&logoColor=white alt=E-Mail style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/xbaimiao" target="_blank">
+<img src=https://komarev.com/ghpvc/?username=xbaimiao&style=for-the-badge alt=E-Mail style="margin-bottom: 5px;" />
+</a>
+</div>
 
 ## Github Stats
 

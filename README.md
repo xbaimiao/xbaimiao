@@ -1,7 +1,3 @@
-- 👋 你好，我是小白
-- 👀 我对minecraft，java，kotlin很感兴趣
-- 📫 我的邮件是3104026189@qq.com
-- 📄 欢迎光临我的[wiki](https://wiki.xbaimiao.com/) 
 ## Connect with me
 <div align="center">
 <a href="https://github.com/xbaimiao" target="_blank">

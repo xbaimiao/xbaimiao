@@ -47,18 +47,25 @@
 
 ## GitHub 数据
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=xbaimiao&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" style="width: 100%" alt="GitHub Stats" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xbaimiao&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" style="width: 100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
+
+<a href="https://github.com/xbaimiao?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxbaimiao&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" />
+</a>
+<a href="https://github.com/xbaimiao?tab=followers">
+  <img src="https://img.shields.io/github/followers/xbaimiao?style=for-the-badge&logo=github&logoColor=white&label=Followers" alt="Followers" />
+</a>
+<a href="https://github.com/xbaimiao?tab=following">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxbaimiao&query=%24.following&label=Following&style=for-the-badge&logo=github&logoColor=white" alt="Following" />
+</a>
+
+<br />
+<br />
+
+<img width="100%" src="https://ghchart.rshah.org/409ba5/xbaimiao" alt="GitHub Contributions" />
+
+<br />
+<br />
 
 <img src="https://streak-stats.demolab.com?user=xbaimiao&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
